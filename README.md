@@ -32,7 +32,8 @@ Elle permet de définir des routes afin d'acceder à certaines pages du site web
 ## Environnement d'exécution
 
 Ce projet nécessite un environnement compatible avec les spécifications suivantes :
-- Docker
+- **Serveur :** nodejs
+- **node :** version 20
 
 ## Installation & Démarrage
 
